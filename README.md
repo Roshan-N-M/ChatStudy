@@ -123,12 +123,14 @@ output:
 client.py output:
 
 
-<img width="665" height="532" alt="image" src="https://github.com/user-attachments/assets/a93ea242-9d83-4e8c-abf2-59d60f771cbf" />
+<img width="270" height="112" alt="image" src="https://github.com/user-attachments/assets/91ec27b8-012a-4d85-bed0-120aa33558a9" />
+
 
 server.py output:
 
 
-<img width="562" height="857" alt="image" src="https://github.com/user-attachments/assets/d5637bb0-7af6-4201-9c45-be5cf146d50a" />
+<img width="562" height="287" alt="image" src="https://github.com/user-attachments/assets/89432052-c940-40fc-9f42-50cc4b544f7b" />
+
 
 ## Result:
 
