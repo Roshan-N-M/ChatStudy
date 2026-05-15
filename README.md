@@ -121,9 +121,13 @@ while 1:
 ~~~
 output:
 client.py output:
+
+
 <img width="665" height="532" alt="image" src="https://github.com/user-attachments/assets/a93ea242-9d83-4e8c-abf2-59d60f771cbf" />
 
 server.py output:
+
+
 <img width="562" height="857" alt="image" src="https://github.com/user-attachments/assets/d5637bb0-7af6-4201-9c45-be5cf146d50a" />
 
 ## Result:
